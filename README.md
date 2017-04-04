@@ -133,26 +133,27 @@ Table of Contents
 
 ## CI / CD
 
+  * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
+  * [bitbucket.org](https://https://bitbucket.org/product/features/pipelines) — 500 free build minutes/month on standard plan
+  * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
+  * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [codefresh.io](https://codefresh.io) — Free-for-Life plan: 1 build, 1 environment, shared servers, unlimited public repos
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
   * [circleci.com](https://circleci.com/) — Free for one concurrent build
-  * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
-  * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
-  * [wercker.com](http://wercker.com/) — Free for public and private repositories
+  * [dependencyci.com](https://dependencyci.com/) — Continuous dependency checking for GitHub repositories, free for open source
+  * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
+  * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
+  * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
+  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
+  * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
+  * [saucelabs.com](https://saucelabs.com/) — CI with scalable testing for mobile and web apps, free for Open Source
   * [semaphoreci.com](https://semaphoreci.com/) — 100 private builds/month, unlimited for Open Source
+  * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [shippable.com](https://app.shippable.com/) — Free for 1 build container, private and public repos, unlimited builds
   * [snap-ci.com](https://snap-ci.com/) — Free for public repositories, 1 build at the time
-  * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
-  * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
-  * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
-  * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
-  * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
-  * [saucelabs.com](https://saucelabs.com/) — CI with scalable testing for mobile and web apps, free for Open Source
-  * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
-  * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
-  * [dependencyci.com](https://dependencyci.com/) — Continuous dependency checking for GitHub repositories, free for open source
+  * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
+  * [wercker.com](http://wercker.com/) — Free for public and private repositories
 
 ## Automated Browser Testing
 
